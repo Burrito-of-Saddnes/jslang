@@ -1,2 +1,1 @@
-# jslang
- 
+# node main to start
